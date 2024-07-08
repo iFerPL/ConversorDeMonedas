@@ -1,7 +1,7 @@
 <h1>Conversor de monedas</h1>
 ##Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+* [Título e imagen de portada](#Título-e-imagen-de-portada)
 
 *[Insignias](#insignias)
 
